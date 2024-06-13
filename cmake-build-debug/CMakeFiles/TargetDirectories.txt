@@ -1,0 +1,3 @@
+D:/vectorscody/cmake-build-debug/CMakeFiles/vectorscody.dir
+D:/vectorscody/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/vectorscody/cmake-build-debug/CMakeFiles/rebuild_cache.dir

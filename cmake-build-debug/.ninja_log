@@ -1,0 +1,22 @@
+# ninja log v5
+1	237	7400066086223052	CMakeFiles/vectorscody.dir/main.cpp.obj	c5ad5c215994630b
+5	238	7400066086233051	CMakeFiles/vectorscody.dir/vector.cpp.obj	1c2bc4605a40e943
+238	306	7400066086891443	vectorscody.exe	d78461f253e0e7ac
+4	245	7400068937011472	CMakeFiles/vectorscody.dir/main.cpp.obj	c5ad5c215994630b
+245	308	7400068937610035	vectorscody.exe	d78461f253e0e7ac
+6	56	7400076678621559	CMakeFiles/vectorscody.dir/vector.cpp.obj	1c2bc4605a40e943
+3	245	7400076680502129	CMakeFiles/vectorscody.dir/main.cpp.obj	c5ad5c215994630b
+245	355	7400076681582496	vectorscody.exe	d78461f253e0e7ac
+8	53	7400078549860330	CMakeFiles/vectorscody.dir/vector.cpp.obj	1c2bc4605a40e943
+4	236	7400078551676865	CMakeFiles/vectorscody.dir/main.cpp.obj	c5ad5c215994630b
+236	296	7400078552257024	vectorscody.exe	d78461f253e0e7ac
+7	68	7400086526747411	CMakeFiles/vectorscody.dir/vector.cpp.obj	1c2bc4605a40e943
+3	285	7400086528907007	CMakeFiles/vectorscody.dir/main.cpp.obj	c5ad5c215994630b
+7	56	7400087812057511	CMakeFiles/vectorscody.dir/vector.cpp.obj	1c2bc4605a40e943
+4	251	7400087814012049	CMakeFiles/vectorscody.dir/main.cpp.obj	c5ad5c215994630b
+251	314	7400087814616896	vectorscody.exe	d78461f253e0e7ac
+4	256	7400088586870493	CMakeFiles/vectorscody.dir/main.cpp.obj	c5ad5c215994630b
+256	320	7400088587486891	vectorscody.exe	d78461f253e0e7ac
+7	148	7400093629378658	CMakeFiles/vectorscody.dir/vector.cpp.obj	1c2bc4605a40e943
+3	243	7400093630323613	CMakeFiles/vectorscody.dir/main.cpp.obj	c5ad5c215994630b
+243	312	7400093630990458	vectorscody.exe	d78461f253e0e7ac
